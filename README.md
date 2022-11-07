@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yassine128/yassine128/master/waves.svg" width="100%" height="150">
+<img src="https://raw.githubusercontent.com/SealYouGM/SealYouGM/0cb59bf7d561eb0a7af548507583887e47783898/waves.svg" width="100%" height="150">
 
 <h1 align="center">Hi 👋, I'm Rober Dugay</h1>
 
