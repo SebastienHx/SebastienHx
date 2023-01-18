@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/SealYouGM/SealYouGM/0cb59bf7d561eb0a7af548507583887e47783898/waves.svg" width="100%" height="150">
 
-<h1 align="center">Hi 👋, I'm Rober Dugay</h1>
+<h1 align="center">Hi 👋, I'm Sebastien</h1>
 
 <p align="center">I like programming.</p>
 
