@@ -47,3 +47,9 @@ My name is Sebastien and I am a <b>software engineering student💻</b>
 - 👨‍🦯[PolyBlind]() : Project realized during a hackathon to help blind people to read.
 
 - ♟️[Chess game]() : Creation of a chess game as the final project of a C++ course.
+
+
+<h3>🏅 Competitions </h3>
+🏆 <b>First place</b> in one of the main challenge of a hackathon based on AI nammed PolyAi-2023.
+
+✨ <b>In top 10</b> in the PolyHx hackathon.
