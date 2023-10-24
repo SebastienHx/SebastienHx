@@ -1,27 +1,49 @@
-<img src="https://raw.githubusercontent.com/SealYouGM/SealYouGM/0cb59bf7d561eb0a7af548507583887e47783898/waves.svg" width="100%" height="150">
+<h1>Salutations! 👋</h1>
+English will follow!
 
-<h1 align="center">Hi 👋, I'm Sebastien</h1>
+Je m'appelle Sébastien et je suis un <b>étudiant en génie logiciel 💻</b>
 
-<p align="center">I like programming.</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s%C3%A9bastien-brossier-284a34262/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brossier.sebastien1@gmail.com)
 
-<p align="center">I'm excited about...</p>
+<h3> 🚀 À propos de moi</h3>
 
-<p align="center">
-  <code>Python</code>
-  <code>Machine Learning</code>
-  <code>Deep Learning</code>
-  <code>git</code>
-</p>
+🎓 Je poursuis actuellement des études universitaires à Montréal en génie logiciel.
 
----
+🏅 J'apprécie participer à divers évènements compétitifs relatifs à l'univers informatique tels que datathon et hackathon.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SealYouGM&show_icons=true&count_private=true&theme=slateorange&hide_border=true" width=400>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SealYouGM&theme=slateorange&hide_border=true" width=400>
-</p>
+📚 J'adore apprendre en participant à des conférences et à la création de projets.
 
-<!---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliasnorrby&theme=slateorange&layout=compact" width = 400>
-</p>
---->
+
+<h3>⌨️Projets</h3>
+
+- 🎮[VIM]() : Un site web permettant à un joueur d'accéder à l'ensemble des objets lui appartenant et de trier ceux-ci dans le jeu en fonction leurs différentes combinaisons d'aspect. Ainsi, le joueur peut supprimer les objets considérés mauvais. (Prototype fonctionnel, mais le actuellement éteint. Amélioration à venir!)
+
+- 👨‍🦯[PolyBlind]() : Projet réalisé durant un hackathon pour aider les gens aveugles à lire.
+
+- ♟️[Jeu d'échec]() : Création d'un jeu d'échec en projet final d'un cours C++.
+
+
+<h3>🏅 Compétitions </h3>
+🏆 <b>1ere place</b> dans un des défis principaux du hackathon sur l'intelligence artificielle PolyAi-2023
+
+✨ <b>Dans le top 10</b> dans le hackathon PolyHx
+
+<h2>Hi! 👋</h2>
+My name is Sebastien and I am a <b>software engineering student💻</b>
+
+<h3> 🚀 About me</h3>
+
+🎓 I am currently pursuing university studies in Montreal in software engineering.
+
+🏅 I enjoy taking part in miscellaneous competitions related to computer science as datathon or hackathon.
+
+📚 I love learning by attending to conferences and creating new projects.
+
+<h3>⌨️Projets</h3>
+
+- 🎮[VIM]() : A website allowing a player to access all the items belonging to them and sort them in game according to their different perks combinaison. Thus, the player can remove easily all bad items.
+
+- 👨‍🦯[PolyBlind]() : Project realized during a hackathon to help blind people to read.
+
+- ♟️[Chess game]() : Creation of a chess game as the final project of a C++ course.
