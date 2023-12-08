@@ -17,7 +17,7 @@ Je m'appelle Sébastien et je suis un <b>étudiant en génie logiciel 💻</b>
 
 <h3>⌨️Projets</h3>
 
-- 🎮[VIM]() : Un site web permettant à un joueur d'accéder à l'ensemble des objets lui appartenant et de trier ceux-ci dans le jeu en fonction leurs différentes combinaisons d'aspect. Ainsi, le joueur peut supprimer les objets considérés mauvais. (Prototype fonctionnel, mais le actuellement éteint. Amélioration à venir!)
+- 🎮[VIM]() : Un site web permettant à un joueur d'accéder à l'ensemble des objets lui appartenant et de trier ceux-ci dans le jeu en fonction leurs différentes combinaisons d'aspect. Ainsi, le joueur peut supprimer les objets considérés mauvais. (Prototype fonctionnel, mais le site est actuellement éteint. Amélioration à venir!)
 
 - 👨‍🦯[PolyBlind]() : Projet réalisé durant un hackathon pour aider les gens aveugles à lire.
 
