@@ -17,10 +17,12 @@ Je m'appelle Sébastien et je suis un <b>étudiant en génie logiciel 💻</b>
 
 <h3>⌨️Projets</h3>
 
-- 🎮[DIS]() : Un site web permettant à un joueur d'accéder à l'ensemble des objets lui appartenant et de trier ceux-ci dans le jeu en fonction leurs différentes combinaisons d'aspect. Ainsi, le joueur peut supprimer les objets considérés mauvais. (Prototype fonctionnel, mais le site est actuellement éteint. Amélioration à venir!)
+- 🎮[DIS]() : Un site web permettant à un joueur d'accéder à l'ensemble des objets lui appartenant et de trier ceux-ci dans le jeu en fonction leurs différentes combinaisons d'aspect. Ainsi, le joueur peut supprimer les objets considérés mauvais. (Prototype fonctionnel, mais le site est actuellement éteint.)
 
 - 👨‍🦯[PolyBlind]() : Projet réalisé durant un hackathon pour aider les gens aveugles à lire.
+- 🌱[Green Proximity](): Projet réalisé durant un hackathon pour découvrir des services disponibles à une distance de marche. (15min) 
 
+- 🐢[Turtlehoot]() : Projet final de deuxième année qui se trouve à être un Kahoot Clone avec des fonctionnalités supplémentaires.
 - ♟️[Jeu d'échec]() : Création d'un jeu d'échec en projet final d'un cours C++.
 
 
@@ -45,7 +47,9 @@ My name is Sebastien and I am a <b>software engineering student💻</b>
 - 🎮[VIM]() : A website allowing a player to access all the items belonging to them and sort them in game according to their different perks combinaison. Thus, the player can remove easily all bad items.
 
 - 👨‍🦯[PolyBlind]() : Project realized during a hackathon to help blind people to read.
+- 🌱[Green Proximity](): Project realized during a hackathon to showcase local services accessible on foot. (15min)
 
+- 🐢[Turtlehoot]() : Second year final project that is a Kahoot Clone with additional features.
 - ♟️[Chess game]() : Creation of a chess game as the final project of a C++ course.
 
 
